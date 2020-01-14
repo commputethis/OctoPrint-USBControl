@@ -183,10 +183,10 @@ class UsbcontrolPlugin(octoprint.plugin.SettingsPlugin,
 				displayName =                       "Usbcontrol Plugin",
 				displayVersion =                    self._plugin_version,
 				type =                              "github_release",
-				user =                              "OutsourcedGuru",
+				user =                              "commputethis",
 				repo =                              "OctoPrint-USBControl",
 				current =                           self._plugin_version,
-				pip =                               "https://github.com/OutsourcedGuru/OctoPrint-USBControl/archive/{target_version}.zip"
+				pip =                               "https://github.com/commputethis/OctoPrint-USBControl/archive/{target_version}.zip"
 			)
 		)
 
