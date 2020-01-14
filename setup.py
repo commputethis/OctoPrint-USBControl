@@ -27,7 +27,7 @@ plugin_author = "OutsourcedGuru"
 plugin_author_email = "support@outsourced.guru"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/OutsourcedGuru/OctoPrint-USBControl"
+plugin_url = "https://github.com/commputethis/OctoPrint-USBControl"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"
