@@ -10,9 +10,9 @@ license: AGPLv3
 # TODO
 date: today's date in format YYYY-MM-DD, e.g. 2015-04-21
 
-homepage: https://github.com/OutsourcedGuru/OctoPrint-USBControl
-source: https://github.com/OutsourcedGuru/OctoPrint-USBControl
-archive: https://github.com/OutsourcedGuru/OctoPrint-USBControl/archive/master.zip
+homepage: https://github.com/commputethis/OctoPrint-USBControl
+source: https://github.com/commputethis/OctoPrint-USBControl
+archive: https://github.com/computethis/OctoPrint-USBControl/archive/master.zip
 
 # TODO
 # Set this to true if your plugin uses the dependency_links setup parameter to include
