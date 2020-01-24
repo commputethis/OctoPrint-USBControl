@@ -18,9 +18,9 @@ class UsbcontrolPlugin(octoprint.plugin.SettingsPlugin,
 		s =                                     settings()
 		return dict(
 			usb2 =                                True,
-			usb3 =                                True if s.get(["plugins", "usbcontrol", "isRaspi3Bplus"]) else False,
-			usb4 =                                True if s.get(["plugins", "usbcontrol", "isRaspi3Bplus"]) else False,
-			usb5 =                                True if s.get(["plugins", "usbcontrol", "isRaspi3Bplus"]) else False,
+			usb3 =                                True if s.get(["plugins", "usbcontrol", "isRaspi4B"]) else False,
+			usb4 =                                True if s.get(["plugins", "usbcontrol", "isRaspi4B"]) else False,
+			usb5 =                                True if s.get(["plugins", "usbcontrol", "isRaspi4B"]) else False,
 			all =                                 True,
 			init =                                False,
 			isRaspi2B =                           False,
